@@ -1,9 +1,9 @@
 ### Hi there, I'm Parshotan - aka Parsh 👋
 
 ## I'm trying to change the world
-- 🔭 I'm currently work at JP Morgan & Chase!
+- 🔭 I'm currently a graduate student at Stevens Institute of Technology 
 - 🌱 I'm currently learning everything!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun Fact: I love to play videogames and pool
 
 <br />
