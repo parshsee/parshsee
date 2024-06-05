@@ -3,7 +3,7 @@
 ## I'm trying to change the world
 - 🔭 I'm currently a graduate student at Stevens Institute of Technology 
 - 🌱 I'm currently learning everything!
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun Fact: I love to play videogames and pool
 
 <br />
